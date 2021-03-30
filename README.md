@@ -45,3 +45,5 @@
 
 - [基于RISC-V代理内核的操作系统课程实验与课程设计](https://gitee.com/syivester/pke-doc)
 - [riscv64-ucore](https://github.com/NKU-EmbeddedSystem/riscv64-ucore)
+- [只有256字节内存的一个极小计算机系统](https://github.com/chyyuu/os_course_exercises/blob/2019spring/all/03-2-spoc-discussion.md#interactiveunderstand-vm)
+- OSTEP中的磁盘调度算法实现和演示： [Hard Disk Drives](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)、[磁盘调度算法实现和演示的python代码](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Disk.tgz)
