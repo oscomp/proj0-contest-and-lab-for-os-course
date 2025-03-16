@@ -95,6 +95,6 @@
  
 #### 已有参考
 
-- [基于RISC-V代理内核的操作系统课程实验与课程设计](https://gitee.com/syivester/pke-doc)
+- [基于RISC-V代理内核的操作系统课程实验与课程设计](https://gitee.com/hustos/pke-doc)
 - [rCore Tutorial 2025 spring OS课实验指导](https://github.com/LearningOS/rCore-Tutorial-Guide-2025S)
 - [uCore Tutorial 2025 spring OS课实验指导](https://github.com/LearningOS/uCore-Tutorial-Guide-2025S)
