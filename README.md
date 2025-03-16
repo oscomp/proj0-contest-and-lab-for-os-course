@@ -11,14 +11,14 @@
 
 ### 所属赛道
 
-2022全国大学生操作系统比赛的“OS功能挑战”赛道
+2025全国大学生操作系统比赛的“OS功能挑战”赛道
 
 **注：本题目将设立专项奖**
 
 ### 参赛要求
 - 以小组为单位参赛，最多三人一个小组，且小组成员是来自同一所高校的本科生或研究生
 - 允许学生参加大赛的多个不同题目，最终自己选择一个题目参与评奖
-- 请遵循“2022全国大学生操作系统比赛”的章程和技术方案要求
+- 请遵循“2025全国大学生操作系统比赛”的章程和技术方案要求
 
 ### 项目导师
 
@@ -56,7 +56,7 @@
 注意：**下面的内容是建议内容，不要求必须全部完成。**选择本项目的同学也可与导师联系，提出自己的新想法，如导师认可，可加入预期目标
 
 
-#### 题目一：2021年内核实现赛道的step by step 指导教程
+#### 题目一：2025年内核实现赛道的step by step 指导教程
 - 重新step by step地完成内核实现赛道的初赛和决赛要求
 - 写出step by step的各个步骤的文档
 - 对类似github issues的提问给出回答和帮助
@@ -69,6 +69,7 @@
 
 
 ##### 已有参考
+- [2025OS比赛内核实现赛道相关的一些OS实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
 - [2021年OS比赛的一等奖的代码和文档](https://github.com/oscomp/2021oscomp-best-kernel-design-impl)
    - branch 2021-ultraos：哈尔滨工业大学（深圳）内核实现
    - branch 2021-xv6：华中科技大学 内核实现
@@ -98,5 +99,5 @@
 #### 已有参考
 
 - [基于RISC-V代理内核的操作系统课程实验与课程设计](https://gitee.com/syivester/pke-doc)
-- [rCore Tutorial 2022 spring OS课实验指导](https://github.com/LearningOS/rCore-Tutorial-Guide-2022S)
-- [uCore Tutorial 2022 spring OS课实验指导](https://github.com/LearningOS/uCore-Tutorial-Guide-2022S)
+- [rCore Tutorial 2025 spring OS课实验指导](https://github.com/LearningOS/rCore-Tutorial-Guide-2025S)
+- [uCore Tutorial 2025 spring OS课实验指导](https://github.com/LearningOS/uCore-Tutorial-Guide-2025S)
