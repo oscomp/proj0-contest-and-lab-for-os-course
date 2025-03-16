@@ -28,9 +28,13 @@
 - github https://github.com/xyongcn
 - email xyong@tsinghua.edu.cn
 
+陈渝
+- github https://github.com/chyyuu
+- email yuchen@tsinghua.edu.cn
+
 ### 难度
 
-初等~中等
+初等~中等~高等
 
 ### 特征
 
@@ -53,7 +57,7 @@
 
 ### 预期目标
 
-注意：**下面的内容是建议内容，不要求必须全部完成。**选择本项目的同学也可与导师联系，提出自己的新想法，如导师认可，可加入预期目标
+注意：**下面的内容是建议内容，不要求必须全部完成。**选择本项目的同学也可与导师联系，提出自己的新想法，如导师认可，可加入预期目标**
 
 
 #### 题目一：2025年内核实现赛道的step by step 指导教程
